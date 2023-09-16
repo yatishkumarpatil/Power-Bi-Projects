@@ -206,6 +206,7 @@ Support
 
 
 **Supply chain View**
+![360_supply_chain](https://github.com/yatishkumarpatil/Power-Bi-Projects/assets/127754539/82f8c250-abe8-4529-aacb-6f50cc169eee)
 
 
 **Executive View**

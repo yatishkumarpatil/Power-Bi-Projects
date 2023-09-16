@@ -1,5 +1,3 @@
-**#** Business_Insights_360 _[Dashboard LINK](https://app.powerbi.com/view?r=eyJrIjoiOWUxZjZiMWQtNDRmZC00ZjAxLTkxMTAtYTZiZGRkMWY4YWRhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
-
 **Business Insights 360**
 
 **Project Overview**
@@ -176,7 +174,7 @@ In this project, we have followed Snowfall data modeling method.
 
 Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
 
-**Home view**
+**Views**
 
 In Home view, all the views button will be available. User will land on specific view page by clicking the button
 
@@ -190,9 +188,9 @@ Products
 Support
 
 
-**Info Page**
+**Home Page**
 
-![image](https://github.com/Sbisht1912/Business_Insight_360/assets/139325522/ba22766c-9da2-4680-a504-be19f4c6738d)
+![360_home](https://github.com/yatishkumarpatil/Power-Bi-Projects/assets/127754539/07d500cb-c405-4396-918e-130b50cb5c99)
 
 
 **Finance View**

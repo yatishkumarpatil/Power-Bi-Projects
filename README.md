@@ -194,23 +194,19 @@ Support
 
 
 **Finance View**
-![image](https://github.com/Sbisht1912/Business_Insight_360/assets/139325522/e56d6768-e104-4ca3-8758-1711d64209cc)
+![360_finance](https://github.com/yatishkumarpatil/Power-Bi-Projects/assets/127754539/dcb8db30-cf61-466c-a11f-d2c05c783f0d)
 
 
 **Sales View**
-![image](https://github.com/Sbisht1912/Business_Insight_360/assets/139325522/308af01b-04a6-4fdf-b30f-885fbd370c21)
 
 
 **Marketing View**
-![image](https://github.com/Sbisht1912/Business_Insight_360/assets/139325522/1775f6ff-6926-4f77-a044-7ad30b2b9326)
 
 
 **Supply chain View**
-![image](https://github.com/Sbisht1912/Business_Insight_360/assets/139325522/57177625-ffb9-4973-bf9c-49dbeab02380)
 
 
 **Executive View**
-![image](https://github.com/Sbisht1912/Business_Insight_360/assets/139325522/e5498758-c0d5-4470-be1c-7b54fe68e859)
 
 
 **Project Outcome**

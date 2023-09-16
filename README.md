@@ -6,7 +6,7 @@
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
 
-I worked on this project by following the Codebasics PowerBi Course, Link to the course is here
+I worked on this project by following the Codebasics PowerBi Course, Link to the dashboard is here
 
  _[Dashboard LINK](https://app.powerbi.com/view?r=eyJrIjoiOWUxZjZiMWQtNDRmZC00ZjAxLTkxMTAtYTZiZGRkMWY4YWRhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
 
@@ -39,12 +39,8 @@ Publishing reports to PowerBi services
 Setting up personal gateway to set up the auto refresh of data
 PowerBi App creation
 Collaboration, workspace, access permissions in PowerBi services
-And more 😅
+And more 
 
-**GitHub**
-
-Uploading Large size files using GitHub LFS
-Tracking the particular type of file extensions for LFS
 
 **Business related terms**
 
@@ -210,6 +206,7 @@ Support
 
 
 **Executive View**
+![360_executive](https://github.com/yatishkumarpatil/Power-Bi-Projects/assets/127754539/25a9b55a-e522-440d-9145-f50c1fa70864)
 
 
 **Project Outcome**

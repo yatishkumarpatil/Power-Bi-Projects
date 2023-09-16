@@ -198,6 +198,7 @@ Support
 
 
 **Sales View**
+![360_sales](https://github.com/yatishkumarpatil/Power-Bi-Projects/assets/127754539/6d3be72c-4e0a-47b5-9e43-0d40eabe5c67)
 
 
 **Marketing View**

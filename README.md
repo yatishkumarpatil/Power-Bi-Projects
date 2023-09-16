@@ -202,6 +202,7 @@ Support
 
 
 **Marketing View**
+![360_marketing](https://github.com/yatishkumarpatil/Power-Bi-Projects/assets/127754539/b5ccafb2-92f0-4898-9646-79c2da110872)
 
 
 **Supply chain View**
